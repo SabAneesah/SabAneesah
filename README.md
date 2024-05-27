@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SabAneesah
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on developing apps and games.
 - 📫 How to reach me : email >> aneesha13sabar@gmail.com
 
 <!---

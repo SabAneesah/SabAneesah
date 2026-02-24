@@ -2,8 +2,7 @@
 # 👋 Hi, I'm Aneesah
 👩🏻‍💻 AI Undergraduate sharing about my journey and learnings in AI<br>
 👩🏻‍🎓 Studying Artificial Intelligence at the University of Moratuwa, Sri Lanka<br>
-🌷 I love writing!<br>
-💭 Currently learning about AI, LLMs, and Data Science
+💭 Currently learning about Data Science
 
 
 # 💻 Tech Stack
